@@ -1,4 +1,4 @@
-# (https://github.com/Snyppi/MyFicbook/blob/2f5568c6e5f597b752675c9074304d33c4855236/feather.ico)MyFicbook
+# <img src="feather.png" width="32" align="center"> MyFicbook
 
 Мощный инструмент для автоматического скачивания, организации и
 синхронизации вашей библиотеки фанфиков с сайта
