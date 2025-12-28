@@ -59,7 +59,7 @@ pip install -r requirements.txt
 3.  Запустите:
 
 ``` bash
-python gui.py
+python MyFicbook.py
 ```
 
 ### Сборка в .EXE
@@ -67,7 +67,7 @@ python gui.py
 Используется `pyinstaller`. Чтобы иконка встроилась корректно, используйте команду:
 
 ``` bash
-pyinstaller --noconsole --onefile --icon="feather.ico" --add-data "feather.ico;." --name "MyFicbook" gui.py
+pyinstaller --noconsole --onefile --icon="feather.ico" --add-data "feather.ico;." --name "MyFicbook" MyFicbook.py
 ```
 
 ## 🧩 Как это работает?
